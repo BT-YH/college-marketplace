@@ -2,8 +2,6 @@ This was a group project for my **CS360 database** class taken at *Gettysburg Co
 
 > Don't leave a semester-long project to the last days!
 
-I will update and improve this website when I get a chance.
+I might update and improve this website when I get a chance.
 
-Also I can't host this site on github pages because it doesn't support `PHP` :`(
-
-Go to this link to view it: [college marketplace]([cs.gettysburg.edu/~tangyi02/](http://cs.gettysburg.edu/~tangyi02/Projects/collegeMarketplace/))
+Also I can't host this site on github pages because it doesn't support `PHP` :`(   If you want to see it, go to this link: [college marketplace]([cs.gettysburg.edu/~tangyi02/](http://cs.gettysburg.edu/~tangyi02/Projects/collegeMarketplace/))
